@@ -1,0 +1,83 @@
+﻿前项,后项,支持度,置信度,提升度
+Binders + Paper,Appliances,0.0086,0.1564,1.7366
+Art + Binders,Phones,0.0084,0.28,1.723
+Furnishings + Paper,Storage,0.0092,0.2599,1.6754
+Binders + Furnishings,Storage,0.0096,0.2424,1.5628
+Appliances + Paper,Binders,0.0086,0.3945,1.5015
+Paper + Storage,Furnishings,0.0092,0.2584,1.476
+Furnishings + Paper,Phones,0.0084,0.2373,1.4602
+Binders + Phones,Art,0.0084,0.2111,1.4462
+Phones + Storage,Binders,0.0088,0.3761,1.4314
+Binders + Phones,Storage,0.0088,0.2211,1.4254
+Furnishings + Storage,Paper,0.0092,0.3333,1.4019
+Appliances + Binders,Paper,0.0086,0.3308,1.3911
+Binders + Storage,Furnishings,0.0096,0.2412,1.3777
+Paper + Phones,Furnishings,0.0084,0.24,1.3708
+Binders + Storage,Phones,0.0088,0.2211,1.3606
+Furnishings + Storage,Binders,0.0096,0.3478,1.3239
+Art + Phones,Binders,0.0084,0.3387,1.2892
+Binders + Paper,Storage,0.0106,0.1927,1.2424
+Art + Binders,Paper,0.0088,0.2933,1.2337
+Binders + Paper,Phones,0.0108,0.1964,1.2083
+Furnishings + Phones,Paper,0.0084,0.2838,1.1935
+Paper + Phones,Binders,0.0108,0.3086,1.1745
+Fasteners,Paper,0.0118,0.2744,1.1541
+Bookcases,Phones,0.0084,0.1875,1.1538
+Binders + Phones,Paper,0.0108,0.2714,1.1412
+Labels,Storage,0.0122,0.1763,1.1365
+Paper + Storage,Binders,0.0106,0.2978,1.1333
+Binders + Storage,Paper,0.0106,0.2663,1.1201
+Art + Paper,Binders,0.0088,0.2933,1.1165
+Fasteners,Binders,0.0124,0.2884,1.0976
+Appliances,Binders,0.026,0.2882,1.0971
+Furnishings + Paper,Binders,0.0102,0.2881,1.0967
+Binders + Paper,Art,0.0088,0.16,1.0964
+Fasteners,Furnishings,0.0082,0.1907,1.0892
+Binders + Furnishings,Paper,0.0102,0.2576,1.0833
+Binders + Paper,Furnishings,0.0102,0.1855,1.0592
+Phones,Art,0.0248,0.1523,1.0438
+Art,Phones,0.0248,0.1696,1.0438
+Tables,Phones,0.0104,0.1694,1.0423
+Furnishings,Phones,0.0295,0.1688,1.0385
+Phones,Furnishings,0.0295,0.1818,1.0385
+Appliances,Phones,0.0152,0.1685,1.037
+Labels,Phones,0.0116,0.1676,1.0315
+Appliances,Paper,0.0218,0.2417,1.0165
+Furnishings,Storage,0.0276,0.1574,1.0144
+Storage,Furnishings,0.0276,0.1776,1.0144
+Envelopes,Phones,0.0082,0.1647,1.0132
+Appliances,Furnishings,0.016,0.1774,1.0131
+Supplies,Paper,0.009,0.2406,1.0121
+Tables,Storage,0.0096,0.1564,1.0079
+Accessories,Phones,0.0232,0.1616,0.9942
+Chairs,Furnishings,0.0198,0.1719,0.9817
+Binders,Storage,0.0397,0.1512,0.9748
+Storage,Binders,0.0397,0.2561,0.9748
+Labels,Paper,0.016,0.2312,0.9724
+Chairs,Paper,0.0266,0.2309,0.9711
+Storage,Paper,0.0355,0.2291,0.9635
+Envelopes,Paper,0.0114,0.2289,0.9628
+Bookcases,Binders,0.0112,0.25,0.9516
+Chairs,Phones,0.0178,0.1545,0.9508
+Labels,Furnishings,0.0114,0.1647,0.9409
+Phones,Binders,0.0397,0.2445,0.9305
+Binders,Phones,0.0397,0.1512,0.9305
+Storage,Phones,0.0234,0.1506,0.9266
+Accessories,Furnishings,0.023,0.1602,0.9148
+Phones,Paper,0.0349,0.215,0.9042
+Labels,Binders,0.0164,0.237,0.9021
+Bookcases,Paper,0.0096,0.2143,0.9012
+Accessories,Paper,0.0305,0.2131,0.8962
+Tables,Binders,0.0142,0.2313,0.8803
+Paper,Binders,0.0549,0.2309,0.8789
+Binders,Paper,0.0549,0.209,0.8789
+Supplies,Binders,0.0086,0.2299,0.8752
+Art,Paper,0.0299,0.2052,0.863
+Binders,Furnishings,0.0395,0.1505,0.8593
+Furnishings,Binders,0.0395,0.2258,0.8593
+Accessories,Binders,0.0321,0.2242,0.8535
+Furnishings,Paper,0.0353,0.2018,0.8488
+Envelopes,Binders,0.0108,0.2169,0.8254
+Chairs,Binders,0.0238,0.2066,0.7864
+Art,Binders,0.0299,0.2052,0.781
+Tables,Paper,0.0108,0.1759,0.7398

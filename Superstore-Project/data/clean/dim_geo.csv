@@ -1,0 +1,605 @@
+﻿State,City,Region,PostalCode
+Alabama,Auburn,South,36830
+Alabama,Decatur,South,35601
+Alabama,Florence,South,35630
+Alabama,Hoover,South,35244
+Alabama,Huntsville,South,35810
+Alabama,Mobile,South,36608
+Alabama,Montgomery,South,36116
+Alabama,Tuscaloosa,South,35401
+Arizona,Avondale,West,85323
+Arizona,Bullhead City,West,86442
+Arizona,Chandler,West,85224
+Arizona,Gilbert,West,85234
+Arizona,Glendale,West,85301
+Arizona,Mesa,West,85204
+Arizona,Peoria,West,85345
+Arizona,Phoenix,West,85023
+Arizona,Scottsdale,West,85254
+Arizona,Sierra Vista,West,85635
+Arizona,Tempe,West,85281
+Arizona,Tucson,West,85705
+Arizona,Yuma,West,85364
+Arkansas,Conway,South,72032
+Arkansas,Fayetteville,South,72701
+Arkansas,Hot Springs,South,71901
+Arkansas,Jonesboro,South,72401
+Arkansas,Little Rock,South,72209
+Arkansas,Pine Bluff,South,71603
+Arkansas,Rogers,South,72756
+Arkansas,Springdale,South,72762
+Arkansas,Texarkana,South,71854
+California,Anaheim,West,92804
+California,Antioch,West,94509
+California,Apple Valley,West,92307
+California,Bakersfield,West,93309
+California,Brentwood,West,94513
+California,Burbank,West,91505
+California,Camarillo,West,93010
+California,Chico,West,95928
+California,Chula Vista,West,91911
+California,Citrus Heights,West,95610
+California,Coachella,West,92236
+California,Concord,West,94521
+California,Costa Mesa,West,92627
+California,Danville,West,94526
+California,Davis,West,95616
+California,Dublin,West,94568
+California,El Cajon,West,92020
+California,Encinitas,West,92024
+California,Escondido,West,92025
+California,Fairfield,West,94533
+California,Fresno,West,93727
+California,Hesperia,West,92345
+California,Huntington Beach,West,92646
+California,Inglewood,West,90301
+California,La Mesa,West,91941
+California,La Quinta,West,92253
+California,Laguna Niguel,West,92677
+California,Lake Elsinore,West,92530
+California,Lake Forest,West,92630
+California,Lakewood,West,90712
+California,Lancaster,West,93534
+California,Lodi,West,95240
+California,Long Beach,West,90805
+California,Los Angeles,West,90008
+California,Manteca,West,95336
+California,Mission Viejo,West,92691
+California,Modesto,West,95351
+California,Montebello,West,90640
+California,Moreno Valley,West,92553
+California,Morgan Hill,West,95037
+California,Murrieta,West,92563
+California,Oakland,West,94601
+California,Oceanside,West,92054
+California,Ontario,West,91761
+California,Oxnard,West,93030
+California,Pasadena,West,91104
+California,Pico Rivera,West,90660
+California,Pomona,West,91767
+California,Rancho Cucamonga,West,91730
+California,Redding,West,96003
+California,Redlands,West,92374
+California,Redondo Beach,West,90278
+California,Redwood City,West,94061
+California,Riverside,West,92503
+California,Roseville,West,95661
+California,Sacramento,West,95823
+California,Salinas,West,93905
+California,San Bernardino,West,92404
+California,San Clemente,West,92672
+California,San Diego,West,92037
+California,San Francisco,West,94122
+California,San Gabriel,West,91776
+California,San Jose,West,95123
+California,San Luis Obispo,West,93405
+California,San Mateo,West,94403
+California,Santa Ana,West,92704
+California,Santa Barbara,West,93101
+California,Santa Clara,West,95051
+California,Santa Maria,West,93454
+California,Stockton,West,95207
+California,Sunnyvale,West,94086
+California,Temecula,West,92592
+California,Thousand Oaks,West,91360
+California,Torrance,West,90503
+California,Vacaville,West,95687
+California,Vallejo,West,94591
+California,Visalia,West,93277
+California,Westminster,West,92683
+California,Whittier,West,90604
+California,Woodland,West,95695
+California,Yucaipa,West,92399
+Colorado,Arvada,West,80004
+Colorado,Aurora,West,80013
+Colorado,Broomfield,West,80020
+Colorado,Colorado Springs,West,80906
+Colorado,Commerce City,West,80022
+Colorado,Denver,West,80219
+Colorado,Englewood,West,80112
+Colorado,Fort Collins,West,80525
+Colorado,Greeley,West,80634
+Colorado,Littleton,West,80122
+Colorado,Longmont,West,80501
+Colorado,Louisville,West,80027
+Colorado,Loveland,West,80538
+Colorado,Parker,West,80134
+Colorado,Pueblo,West,81001
+Colorado,Thornton,West,80229
+Connecticut,Bristol,East,6010
+Connecticut,Danbury,East,6810
+Connecticut,Fairfield,East,6824
+Connecticut,Manchester,East,6040
+Connecticut,Meriden,East,6450
+Connecticut,Middletown,East,6457
+Connecticut,Milford,East,6460
+Connecticut,Norwich,East,6360
+Connecticut,Shelton,East,6484
+Connecticut,Waterbury,East,6708
+Delaware,Dover,East,19901
+Delaware,Newark,East,19711
+Delaware,Wilmington,East,19805
+District of Columbia,Washington,East,20016
+Florida,Apopka,South,32712
+Florida,Boca Raton,South,33433
+Florida,Boynton Beach,South,33437
+Florida,Coral Gables,South,33134
+Florida,Coral Springs,South,33065
+Florida,Daytona Beach,South,32114
+Florida,Delray Beach,South,33445
+Florida,Deltona,South,32725
+Florida,Fort Lauderdale,South,33311
+Florida,Hialeah,South,33012
+Florida,Hollywood,South,33021
+Florida,Homestead,South,33030
+Florida,Jacksonville,South,32216
+Florida,Jupiter,South,33458
+Florida,Kissimmee,South,34741
+Florida,Lakeland,South,33801
+Florida,Margate,South,33063
+Florida,Melbourne,South,32935
+Florida,Miami,South,33180
+Florida,Miramar,South,33023
+Florida,North Miami,South,33161
+Florida,Orlando,South,32839
+Florida,Ormond Beach,South,32174
+Florida,Palm Coast,South,32137
+Florida,Pembroke Pines,South,33024
+Florida,Pensacola,South,32503
+Florida,Plantation,South,33317
+Florida,Pompano Beach,South,33068
+Florida,Port Orange,South,32127
+Florida,Port Saint Lucie,South,34952
+Florida,Saint Petersburg,South,33710
+Florida,Sanford,South,32771
+Florida,Tallahassee,South,32303
+Florida,Tamarac,South,33319
+Florida,Tampa,South,33614
+Florida,West Palm Beach,South,33407
+Georgia,Athens,South,30605
+Georgia,Atlanta,South,30318
+Georgia,Columbus,South,31907
+Georgia,East Point,South,30344
+Georgia,Macon,South,31204
+Georgia,Marietta,South,30062
+Georgia,Roswell,South,30076
+Georgia,Sandy Springs,South,30328
+Georgia,Smyrna,South,30080
+Georgia,Warner Robins,South,31088
+Georgia,Woodstock,South,30188
+Idaho,Boise,West,83704
+Idaho,Caldwell,West,83605
+Idaho,Lewiston,West,83501
+Idaho,Meridian,West,83642
+Idaho,Pocatello,West,83201
+Idaho,Twin Falls,West,83301
+Illinois,Arlington Heights,Central,60004
+Illinois,Aurora,Central,60505
+Illinois,Bloomington,Central,61701
+Illinois,Bolingbrook,Central,60440
+Illinois,Buffalo Grove,Central,60089
+Illinois,Carol Stream,Central,60188
+Illinois,Champaign,Central,61821
+Illinois,Chicago,Central,60653
+Illinois,Danville,Central,61832
+Illinois,Decatur,Central,62521
+Illinois,Des Plaines,Central,60016
+Illinois,Elmhurst,Central,60126
+Illinois,Evanston,Central,60201
+Illinois,Frankfort,Central,60423
+Illinois,Freeport,Central,61032
+Illinois,Glenview,Central,60025
+Illinois,Highland Park,Central,60035
+Illinois,Naperville,Central,60540
+Illinois,Normal,Central,61761
+Illinois,Oak Park,Central,60302
+Illinois,Orland Park,Central,60462
+Illinois,Oswego,Central,60543
+Illinois,Palatine,Central,60067
+Illinois,Park Ridge,Central,60068
+Illinois,Peoria,Central,61604
+Illinois,Quincy,Central,62301
+Illinois,Rockford,Central,61107
+Illinois,Romeoville,Central,60441
+Illinois,Saint Charles,Central,60174
+Illinois,Skokie,Central,60076
+Illinois,Tinley Park,Central,60477
+Illinois,Wheeling,Central,60090
+Illinois,Woodstock,Central,60098
+Indiana,Bloomington,Central,47401
+Indiana,Columbus,Central,47201
+Indiana,Elkhart,Central,46514
+Indiana,Greenwood,Central,46142
+Indiana,Indianapolis,Central,46203
+Indiana,La Porte,Central,46350
+Indiana,Lafayette,Central,47905
+Indiana,Lawrence,Central,46226
+Indiana,Mishawaka,Central,46544
+Indiana,New Albany,Central,47150
+Indiana,New Castle,Central,47362
+Indiana,Noblesville,Central,46060
+Indiana,Portage,Central,46368
+Indiana,Richmond,Central,47374
+Indiana,South Bend,Central,46614
+Iowa,Burlington,Central,52601
+Iowa,Cedar Rapids,Central,52402
+Iowa,Des Moines,Central,50315
+Iowa,Dubuque,Central,52001
+Iowa,Iowa City,Central,52240
+Iowa,Marion,Central,52302
+Iowa,Urbandale,Central,50322
+Iowa,Waterloo,Central,50701
+Kansas,Garden City,Central,67846
+Kansas,Manhattan,Central,66502
+Kansas,Olathe,Central,66062
+Kansas,Overland Park,Central,66212
+Kansas,Wichita,Central,67212
+Kentucky,Bowling Green,South,42104
+Kentucky,Florence,South,41042
+Kentucky,Georgetown,South,40324
+Kentucky,Henderson,South,42420
+Kentucky,Louisville,South,40214
+Kentucky,Murray,South,42071
+Kentucky,Owensboro,South,42301
+Kentucky,Richmond,South,40475
+Louisiana,Bossier City,South,71111
+Louisiana,Kenner,South,70065
+Louisiana,Lafayette,South,70506
+Louisiana,Lake Charles,South,70601
+Louisiana,Monroe,South,71203
+Maine,Bangor,East,4401
+Maine,Lewiston,East,4240
+Maryland,Baltimore,East,21215
+Maryland,Clinton,East,20735
+Maryland,Columbia,East,21044
+Maryland,Gaithersburg,East,20877
+Maryland,Hagerstown,East,21740
+Maryland,Laurel,East,20707
+Maryland,Rockville,East,20852
+Massachusetts,Andover,East,1810
+Massachusetts,Beverly,East,1915
+Massachusetts,Cambridge,East,2138
+Massachusetts,Everett,East,2149
+Massachusetts,Franklin,East,2038
+Massachusetts,Holyoke,East,1040
+Massachusetts,Lawrence,East,1841
+Massachusetts,Leominster,East,1453
+Massachusetts,Lowell,East,1852
+Massachusetts,Malden,East,2148
+Massachusetts,Marlborough,East,1752
+Massachusetts,New Bedford,East,2740
+Massachusetts,Quincy,East,2169
+Massachusetts,Revere,East,2151
+Michigan,Ann Arbor,Central,48104
+Michigan,Canton,Central,48187
+Michigan,Dearborn,Central,48126
+Michigan,Dearborn Heights,Central,48127
+Michigan,Detroit,Central,48234
+Michigan,Grand Rapids,Central,49505
+Michigan,Holland,Central,49423
+Michigan,Jackson,Central,49201
+Michigan,Lansing,Central,48911
+Michigan,Lincoln Park,Central,48146
+Michigan,Midland,Central,48640
+Michigan,Mount Pleasant,Central,48858
+Michigan,Oak Park,Central,48237
+Michigan,Rochester Hills,Central,48307
+Michigan,Roseville,Central,48066
+Michigan,Royal Oak,Central,48073
+Michigan,Saginaw,Central,48601
+Michigan,Sterling Heights,Central,48310
+Michigan,Taylor,Central,48180
+Michigan,Trenton,Central,48183
+Michigan,Westland,Central,48185
+Minnesota,Apple Valley,Central,55124
+Minnesota,Coon Rapids,Central,55433
+Minnesota,Cottage Grove,Central,55016
+Minnesota,Eagan,Central,55122
+Minnesota,Lakeville,Central,55044
+Minnesota,Maple Grove,Central,55369
+Minnesota,Minneapolis,Central,55407
+Minnesota,Moorhead,Central,56560
+Minnesota,Rochester,Central,55901
+Minnesota,Roseville,Central,55113
+Minnesota,Saint Cloud,Central,56301
+Minnesota,Saint Paul,Central,55106
+Minnesota,Woodbury,Central,55125
+Mississippi,Gulfport,South,39503
+Mississippi,Hattiesburg,South,39401
+Mississippi,Jackson,South,39212
+Mississippi,Southaven,South,38671
+Missouri,Columbia,Central,65203
+Missouri,Gladstone,Central,64118
+Missouri,Independence,Central,64055
+Missouri,Jefferson City,Central,65109
+Missouri,Kirkwood,Central,63122
+Missouri,Saint Charles,Central,63301
+Missouri,Saint Louis,Central,63116
+Missouri,Saint Peters,Central,63376
+Missouri,Springfield,Central,65807
+Montana,Billings,West,59102
+Montana,Bozeman,West,59715
+Montana,Great Falls,West,59405
+Montana,Helena,West,59601
+Montana,Missoula,West,59801
+Nebraska,Fremont,Central,68025
+Nebraska,Grand Island,Central,68801
+Nebraska,Norfolk,Central,68701
+Nebraska,Omaha,Central,68104
+Nevada,Henderson,West,89015
+Nevada,Las Vegas,West,89115
+Nevada,North Las Vegas,West,89031
+Nevada,Reno,West,89502
+Nevada,Sparks,West,89431
+New Hampshire,Concord,East,3301
+New Hampshire,Dover,East,3820
+New Hampshire,Nashua,East,3060
+New Jersey,Atlantic City,East,8401
+New Jersey,Bayonne,East,7002
+New Jersey,Belleville,East,7109
+New Jersey,Bridgeton,East,8302
+New Jersey,Clifton,East,7011
+New Jersey,East Orange,East,7017
+New Jersey,Hackensack,East,7601
+New Jersey,Lakewood,East,8701
+New Jersey,Linden,East,7036
+New Jersey,Morristown,East,7960
+New Jersey,New Brunswick,East,8901
+New Jersey,Orange,East,7050
+New Jersey,Passaic,East,7055
+New Jersey,Paterson,East,7501
+New Jersey,Perth Amboy,East,8861
+New Jersey,Plainfield,East,7060
+New Jersey,Vineland,East,8360
+New Jersey,Westfield,East,7090
+New Mexico,Albuquerque,West,87105
+New Mexico,Carlsbad,West,88220
+New Mexico,Clovis,West,88101
+New Mexico,Farmington,West,87401
+New Mexico,Las Cruces,West,88001
+New Mexico,Rio Rancho,West,87124
+New Mexico,Santa Fe,West,87505
+New York,Auburn,East,13021
+New York,Buffalo,East,14215
+New York,Freeport,East,11520
+New York,Hempstead,East,11550
+New York,Jamestown,East,14701
+New York,Lindenhurst,East,11757
+New York,Long Beach,East,11561
+New York,Mount Vernon,East,10550
+New York,New Rochelle,East,10801
+New York,New York City,East,10009
+New York,Niagara Falls,East,14304
+New York,Oceanside,East,11572
+New York,Rochester,East,14609
+New York,Rome,East,13440
+New York,Troy,East,12180
+New York,Utica,East,13501
+New York,Watertown,East,13601
+New York,Yonkers,East,10701
+North Carolina,Asheville,South,28806
+North Carolina,Burlington,South,27217
+North Carolina,Cary,South,27511
+North Carolina,Chapel Hill,South,27514
+North Carolina,Charlotte,South,28205
+North Carolina,Concord,South,28027
+North Carolina,Durham,South,27707
+North Carolina,Fayetteville,South,28314
+North Carolina,Gastonia,South,28052
+North Carolina,Goldsboro,South,27534
+North Carolina,Greensboro,South,27405
+North Carolina,Greenville,South,27834
+North Carolina,Hickory,South,28601
+North Carolina,Jacksonville,South,28540
+North Carolina,Monroe,South,28110
+North Carolina,Raleigh,South,27604
+North Carolina,Thomasville,South,27360
+North Carolina,Wilmington,South,28403
+North Carolina,Wilson,South,27893
+North Dakota,Fargo,Central,58103
+Ohio,Akron,East,44312
+Ohio,Bowling Green,East,43402
+Ohio,Cincinnati,East,45231
+Ohio,Cleveland,East,44105
+Ohio,Columbus,East,43229
+Ohio,Cuyahoga Falls,East,44221
+Ohio,Dublin,East,43017
+Ohio,Elyria,East,44035
+Ohio,Fairfield,East,45014
+Ohio,Grove City,East,43123
+Ohio,Hamilton,East,45011
+Ohio,Kent,East,44240
+Ohio,Lakewood,East,44107
+Ohio,Lancaster,East,43130
+Ohio,Lorain,East,44052
+Ohio,Marion,East,43302
+Ohio,Mason,East,45040
+Ohio,Medina,East,44256
+Ohio,Mentor,East,44060
+Ohio,Newark,East,43055
+Ohio,Parma,East,44134
+Ohio,Springfield,East,45503
+Ohio,Toledo,East,43615
+Ohio,Troy,East,45373
+Oklahoma,Broken Arrow,Central,74012
+Oklahoma,Edmond,Central,73034
+Oklahoma,Lawton,Central,73505
+Oklahoma,Muskogee,Central,74403
+Oklahoma,Norman,Central,73071
+Oklahoma,Oklahoma City,Central,73120
+Oklahoma,Tulsa,Central,74133
+Oregon,Eugene,West,97405
+Oregon,Gresham,West,97030
+Oregon,Hillsboro,West,97123
+Oregon,Medford,West,97504
+Oregon,Portland,West,97206
+Oregon,Redmond,West,97756
+Oregon,Salem,West,97301
+Oregon,Springfield,West,97477
+Oregon,Tigard,West,97224
+Pennsylvania,Allentown,East,18103
+Pennsylvania,Altoona,East,16602
+Pennsylvania,Bethlehem,East,18018
+Pennsylvania,Chester,East,19013
+Pennsylvania,Lancaster,East,17602
+Pennsylvania,Philadelphia,East,19140
+Pennsylvania,Reading,East,19601
+Pennsylvania,York,East,17403
+Rhode Island,Cranston,East,2920
+Rhode Island,Providence,East,2908
+Rhode Island,Warwick,East,2886
+Rhode Island,Woonsocket,East,2895
+South Carolina,Columbia,South,29203
+South Carolina,Florence,South,29501
+South Carolina,Mount Pleasant,South,29464
+South Carolina,North Charleston,South,29406
+South Carolina,Rock Hill,South,29730
+South Carolina,Summerville,South,29483
+South Dakota,Aberdeen,Central,57401
+South Dakota,Rapid City,Central,57701
+South Dakota,Sioux Falls,Central,57103
+Tennessee,Bartlett,South,38134
+Tennessee,Bristol,South,37620
+Tennessee,Chattanooga,South,37421
+Tennessee,Clarksville,South,37042
+Tennessee,Columbia,South,38401
+Tennessee,Franklin,South,37064
+Tennessee,Hendersonville,South,37075
+Tennessee,Jackson,South,38301
+Tennessee,Johnson City,South,37604
+Tennessee,Knoxville,South,37918
+Tennessee,Lebanon,South,37087
+Tennessee,Memphis,South,38109
+Tennessee,Murfreesboro,South,37130
+Tennessee,Nashville,South,37211
+Tennessee,Smyrna,South,37167
+Texas,Abilene,Central,79605
+Texas,Allen,Central,75002
+Texas,Amarillo,Central,79109
+Texas,Arlington,Central,76017
+Texas,Austin,Central,78745
+Texas,Baytown,Central,77520
+Texas,Beaumont,Central,77705
+Texas,Bedford,Central,76021
+Texas,Brownsville,Central,78521
+Texas,Bryan,Central,77803
+Texas,Carrollton,Central,75007
+Texas,Cedar Hill,Central,75104
+Texas,College Station,Central,77840
+Texas,Conroe,Central,77301
+Texas,Coppell,Central,75019
+Texas,Corpus Christi,Central,78415
+Texas,Dallas,Central,75220
+Texas,Deer Park,Central,77536
+Texas,Edinburg,Central,78539
+Texas,El Paso,Central,79907
+Texas,Fort Worth,Central,76106
+Texas,Frisco,Central,75034
+Texas,Garland,Central,75043
+Texas,Grand Prairie,Central,75051
+Texas,Grapevine,Central,76051
+Texas,Haltom City,Central,76117
+Texas,Harlingen,Central,78550
+Texas,Houston,Central,77041
+Texas,Huntsville,Central,77340
+Texas,Irving,Central,75061
+Texas,Keller,Central,76248
+Texas,La Porte,Central,77571
+Texas,Laredo,Central,78041
+Texas,League City,Central,77573
+Texas,Lubbock,Central,79424
+Texas,Mansfield,Central,76063
+Texas,Mcallen,Central,78501
+Texas,Mesquite,Central,75150
+Texas,Missouri City,Central,77489
+Texas,Odessa,Central,79762
+Texas,Pasadena,Central,77506
+Texas,Pearland,Central,77581
+Texas,Pharr,Central,78577
+Texas,Plano,Central,75023
+Texas,Port Arthur,Central,77642
+Texas,Richardson,Central,75080
+Texas,Round Rock,Central,78664
+Texas,San Angelo,Central,76903
+Texas,San Antonio,Central,78207
+Texas,San Marcos,Central,78666
+Texas,Texas City,Central,77590
+Texas,The Colony,Central,75056
+Texas,Tyler,Central,75701
+Texas,Waco,Central,76706
+Utah,Draper,West,84020
+Utah,Layton,West,84041
+Utah,Lehi,West,84043
+Utah,Logan,West,84321
+Utah,Murray,West,84107
+Utah,Orem,West,84057
+Utah,Pleasant Grove,West,84062
+Utah,Provo,West,84604
+Utah,Salt Lake City,West,84106
+Utah,West Jordan,West,84084
+Vermont,Burlington,East,-1
+Virginia,Alexandria,South,22304
+Virginia,Arlington,South,22204
+Virginia,Charlottesville,South,22901
+Virginia,Chesapeake,South,23320
+Virginia,Hampton,South,23666
+Virginia,Harrisonburg,South,22801
+Virginia,Newport News,South,23602
+Virginia,Richmond,South,23223
+Virginia,Salem,South,24153
+Virginia,Springfield,South,22153
+Virginia,Suffolk,South,23434
+Virginia,Virginia Beach,South,23464
+Virginia,Waynesboro,South,22980
+Washington,Auburn,West,98002
+Washington,Bellevue,West,98006
+Washington,Bellingham,West,98226
+Washington,Covington,West,98042
+Washington,Des Moines,West,98198
+Washington,Edmonds,West,98026
+Washington,Everett,West,98208
+Washington,Kent,West,98031
+Washington,Longview,West,98632
+Washington,Marysville,West,98270
+Washington,Olympia,West,98502
+Washington,Pasco,West,99301
+Washington,Redmond,West,98052
+Washington,Renton,West,98059
+Washington,Seattle,West,98103
+Washington,Spokane,West,99207
+Washington,Vancouver,West,98661
+West Virginia,Wheeling,East,26003
+Wisconsin,Appleton,Central,54915
+Wisconsin,Eau Claire,Central,54703
+Wisconsin,Franklin,Central,53132
+Wisconsin,Green Bay,Central,54302
+Wisconsin,Kenosha,Central,53142
+Wisconsin,La Crosse,Central,54601
+Wisconsin,Madison,Central,53711
+Wisconsin,Milwaukee,Central,53209
+Wisconsin,Sheboygan,Central,53081
+Wisconsin,Superior,Central,54880
+Wisconsin,Waukesha,Central,53186
+Wisconsin,Wausau,Central,54401
+Wisconsin,West Allis,Central,53214
+Wyoming,Cheyenne,West,82001

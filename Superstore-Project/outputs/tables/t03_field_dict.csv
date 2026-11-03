@@ -1,0 +1,16 @@
+﻿字段,中文名,类型,说明
+Order ID,订单编号,字符串,订单唯一标识，一个订单可含多个商品行
+Order Date,下单日期,日期,2015-01-03 ~ 2018-12-30
+Ship Date,发货日期,日期,用于计算发货时效
+Ship Mode,配送方式,类别,四种：标准/二等/一等/当日
+Customer ID,客户编号,字符串,外键 → dim_customer
+Segment,客户细分,类别,Consumer / Corporate / Home Office
+Region,销售大区,类别,West / East / Central / South
+State / City,州 / 城市,类别,地理维度，外键 → dim_geo
+Product ID,商品编号,字符串,外键 → dim_product
+Category,商品大类,类别,Furniture / Office Supplies / Technology
+Sub-Category,商品子类,类别,17 个，是波士顿矩阵与 ABC 分析的分析单元
+Sales,销售额,浮点,美元（USD）原币口径，图表统一以「万美元」为单位
+Quantity,销量,整数,件
+Discount,折扣率,浮点,0 ~ 0.8，是利润侵蚀的主要解释变量
+Profit,利润,浮点,可为负，负值即亏损行
